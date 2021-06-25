@@ -1,0 +1,45 @@
+
+.nav {
+
+ 
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+    overflow: hidden;
+    display: block;
+    width: 200px; 
+    border: solid red 3px;
+    border: 1px solid #333;
+}
+
+li a {
+    text-align: center;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px solid #555;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+    transition: 0.5s;
+}
+.nav:hover {
+    color: red;
+    transition: color 0.5s;
+}
+
+h2 {
+    color: red;
+    font-size: 20px;
+}
+
+body {
+    background-color:whitesmoke;
+}
