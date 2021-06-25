@@ -1,1 +1,1 @@
-A web design portfolio for my freelance web design business.
+A web design portfolio learning experiment.
